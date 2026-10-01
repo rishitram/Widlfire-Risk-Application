@@ -42,29 +42,6 @@ Risk is calculated in `RiskCalculator.java` using a base score and then adjusted
 
 The final score is clamped to a range of 1 to 10.
 
-## Project structure
-
-```text
-.
-├── Climate.java
-├── forestLoader.java
-├── House.java
-├── houses.csv
-├── Location.java
-├── Main.java
-├── NationalForests.csv
-├── NRI_Table_Counties(1).csv
-├── OtherFactors.java
-├── rain.csv
-├── RainLoader.java
-├── RiskCalculator.java
-├── RiskLoader.java
-├── temp.csv
-├── TempLoader.java
-├── README.md
-└── .gitignore (if present in your clone)
-```
-
 ## Data sources
 
 The app loads the following datasets:
