@@ -126,17 +126,3 @@ Enter average dry months per year: 7
 Enter any additional features (e.g. fire resistant windows, sprinkler system, vents): sprinkler system
 House listed successfully! Risk Score: 7
 ```
-
-## Notes
-
-- The project is intentionally simple and uses CSV files instead of a database.
-- Risk estimates are heuristic and intended for educational or prototype use.
-- Data quality and local conditions may affect how closely the result matches real-world wildfire risk.
-
-## License
-
-This project does not currently include a license file. If you plan to share or distribute it, add a suitable open-source license before public use.
-
-## Contributing
-
-Contributions are welcome. A good starting point would be to improve the scoring model, add validation for user input, support additional counties/states, or convert the app to a graphical interface or web app.
